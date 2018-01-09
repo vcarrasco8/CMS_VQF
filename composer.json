@@ -1,0 +1,14 @@
+{
+    "name": "vqf/media-vqf",
+    "type": "typo3-cms-extension",
+    "description": "Biblioth\u00e8ques m\u00e9dia de VQF",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "VQF\\MediaVqf\\": "Classes"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    144,
+                    96
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_list": false,
+                    "_default1_show": false,
+                    "_default2_new_create": false,
+                    "_default3_edit_update": false,
+                    "_default4_delete": false,
+                    "customActions": []
+                },
+                "name": "Media",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": false,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "",
+                    "parentClass": "",
+                    "sorting": false,
+                    "type": "Entity",
+                    "uid": "1410043621210"
+                },
+                "propertyGroup": {
+                    "properties": []
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [],
+        "description": "Biblioth\u00e8ques m\u00e9dia de VQF",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.7.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "8.7.0-8.7.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "media_vqf",
+        "name": "media_vqf",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "",
+                "email": "carrascovincent8@gmail.com",
+                "name": "Vincent CARRASCO",
+                "role": "Developer"
+            },
+            {
+                "company": "",
+                "email": "florian.almeida05@gmail.com",
+                "name": "Florian DE ALMEIDA",
+                "role": "Developer"
+            },
+            {
+                "company": "",
+                "email": "dubrasquentin@gmail.com",
+                "name": "Quentin DUBRAS",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "VQF"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2018-01-09 05:53",
+        "extension_builder_version": "8.7.0",
+        "be_user": " (1)"
+    }
+}

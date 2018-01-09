@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-09T17:53:54Z" product-name="media_vqf">
+		<header/>
+		<body>
+			<trans-unit id="tx_mediavqf_domain_model_media">
+				<source>Media</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
